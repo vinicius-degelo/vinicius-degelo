@@ -29,7 +29,7 @@ Transformo dados operacionais em dashboards e análises que guiam decisões reai
 
 ## 📊 Projetos em destaque
 
-https://github.com/vinicius-degelo/projeto-atendimento-clientes 🔹 [Pipeline de análise de atendimento ao cliente](#)
+### 🔹 [Pipeline de análise de atendimento ao cliente](https://github.com/vinicius-degelo/projeto-atendimento-clientes)
 Análise completa de dados de chamados e SLA: ingestão, limpeza com Python/pandas, queries SQL para identificação de gargalos e visualização de KPIs operacionais.
 `Python` `pandas` `SQL` `análise de SLA`
 
