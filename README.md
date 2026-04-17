@@ -33,7 +33,7 @@ Transformo dados operacionais em dashboards e análises que guiam decisões reai
 Análise completa de dados de chamados e SLA: ingestão, limpeza com Python/pandas, queries SQL para identificação de gargalos e visualização de KPIs operacionais.
 `Python` `pandas` `SQL` `análise de SLA`
 
-### 🔹 [Dashboard de KPIs operacionais — Power BI](#)
+### 🔹 [Dashboard de Manutenção e Confiabilidade — Power BI](https://github.com/vinicius-degelo/dashboard-manutencao)
 Dashboard interativo com indicadores de performance (NPS, reincidência, tempo de resolução). Dados tratados via Power Query e modelagem dimensional em esquema estrela.
 `Power BI` `DAX` `Power Query` `modelagem dimensional`
 
